@@ -1,0 +1,2 @@
+SnapdragonXR: 4.0.5
+Unity Editor: 2017.4(LTS) thru 2020.3(LTS)
